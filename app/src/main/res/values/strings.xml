@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Oras</string>
+    <string name="admin_label">Oras uninstall protection</string>
+    <string name="admin_description">Lets Oras lock the screen and stops the app being removed without the parent code.</string>
+    <string name="accessibility_label">Oras strong lock</string>
+    <string name="accessibility_description">Watches for attempts to leave the lock screen or open app settings while a lock is active, and brings the lock back. Oras never reads or stores the content of any other app.</string>
+</resources>
